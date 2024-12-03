@@ -48,6 +48,6 @@ The original version of this system came from DreamedAway's Custom lighting syst
 
 ### 🎉 You're Done!
 Enjoy your custom 2D lighting system! ✨  
-Feel free to adjust shader settings or scripts to fine-tune the lighting for your project.
+Feel free to adjust shader settings or scripts to fine-tune the lighting for your project. Also, to share and create tutorials based on this!
 
 ---
