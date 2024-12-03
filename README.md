@@ -25,6 +25,7 @@ This tutorial will guide you through creating a simple and customizable 2D light
 3. In the **`Lighting` node inspector**:
    - Add a **Material > New Shader Material**.
    - Assign the provided shader to the **Shader Material**.
+   - Assign your Camera2D to the Node
 
 ---
 
