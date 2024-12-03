@@ -1,3 +1,5 @@
+<img width="1080" alt="Frame 11 (1)" src="https://github.com/user-attachments/assets/e4193ba9-0cad-4dae-8f48-5a35a5489700">
+
 # 🌟 Custom Lighting System in Godot 4.3
 
 This tutorial will guide you through creating a simple and customizable 2D lighting system in Godot 4.3. By the end, you’ll have a dynamic light source to enhance your game’s atmosphere.
