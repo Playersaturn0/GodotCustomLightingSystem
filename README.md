@@ -22,6 +22,7 @@ This tutorial will guide you through creating a simple and customizable 2D light
    - Add a **`CanvasLayer`** node.
    - Add a **`ColorRect`** node as a child of the `CanvasLayer`.
    - Name the `ColorRect` node **`Lighting`**.
+   - Set the `ColorRect` node to `FullRect`
 2. **Attach a script** to the `Lighting` node:
    - This script will interact with the shader for lighting effects.
 3. In the **`Lighting` node inspector**:
