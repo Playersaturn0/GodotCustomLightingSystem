@@ -3,6 +3,7 @@
 # 🌟 Custom Lighting System in Godot 4.3
 
 This tutorial will guide you through creating a simple and customizable 2D lighting system in Godot 4.3. By the end, you’ll have a dynamic light source to enhance your game’s atmosphere.
+The original version of this system came from DreamedAway's Custom lighting system in Godot 4 Video: https://www.youtube.com/watch?v=kM71HecDOvM&t=1s&ab_channel=DreamedAway
 
 ---
 
