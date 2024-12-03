@@ -13,7 +13,7 @@ The original version of this system came from DreamedAway's Custom lighting syst
 1. **Create a new scene**:
    - Set the root node to **`Marker2D`**.
    - Name the node **`LightSource`**.
-2. **Attach a script** to the `LightSource` node:
+2. **Attach the provided script** to the `LightSource` node:
    - This script will handle the parameters and behavior of the light.
 
 ---
@@ -24,7 +24,7 @@ The original version of this system came from DreamedAway's Custom lighting syst
    - Add a **`ColorRect`** node as a child of the `CanvasLayer`.
    - Name the `ColorRect` node **`Lighting`**.
    - Set the `ColorRect` node to `FullRect`
-2. **Attach a script** to the `Lighting` node:
+2. **Attach the provided script** to the `Lighting` node:
    - This script will interact with the shader for lighting effects.
 3. In the **`Lighting` node inspector**:
    - Add a **Material > New Shader Material**.
